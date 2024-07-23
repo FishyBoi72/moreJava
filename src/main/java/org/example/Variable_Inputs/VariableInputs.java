@@ -1,4 +1,4 @@
-package Variable_Inputs;
+package org.example.Variable_Inputs;
 
 import java.util.Scanner;
 

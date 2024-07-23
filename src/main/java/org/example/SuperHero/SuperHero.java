@@ -1,4 +1,4 @@
-package SuperHero;
+package org.example.SuperHero;
 
 import java.util.Scanner;
 public class SuperHero {
